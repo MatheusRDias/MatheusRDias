@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: EuSouVoce
+          user: MatheusRDias
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
